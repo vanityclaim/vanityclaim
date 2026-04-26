@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**vanityclaim/vanityclaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://discord.com/users/671020205853638676">
+    <img src="https://lanyard.cnrad.dev/api/671020205853638676?theme=dark&bg=0d1117&borderRadius=12px&animated=true&idleMessage=%20" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=we+never+lose" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://discord.com/users/671020205853638676">
+    <img src="https://img.shields.io/badge/discord-öztürk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.npmjs.com/package/ozturk-mfa">
+    <img src="https://img.shields.io/npm/v/ozturk-mfa?style=for-the-badge&color=cc3534&logo=npm&label=ozturk-mfa" />
+  </a>
+  <a href="https://github.com/ozturksniper">
+    <img src="https://komarev.com/ghpvc/?username=oztxrk&style=for-the-badge&color=0d1117&label=profile+views" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ozturksniper?tab=repositories">
+    <img src="https://img.shields.io/badge/check%20out%20my%20repos-%E2%86%92-58a6ff?style=for-the-badge&labelColor=0d1117" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
