@@ -12,10 +12,6 @@
 <p align="center">
   <a href="https://discord.com/users/671020205853638676">
     <img src="https://img.shields.io/badge/discord-öztürk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.npmjs.com/package/ozturk-mfa">
-    <img src="https://img.shields.io/npm/v/ozturk-mfa?style=for-the-badge&color=cc3534&logo=npm&label=ozturk-mfa" />
-  </a>
   <a href="https://github.com/ozturksniper">
     <img src="https://komarev.com/ghpvc/?username=oztxrk&style=for-the-badge&color=0d1117&label=profile+views" />
   </a>
