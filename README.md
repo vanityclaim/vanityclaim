@@ -13,7 +13,7 @@
   <a href="https://discord.com/users/671020205853638676">
     <img src="https://img.shields.io/badge/discord-öztürk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://github.com/vanityclaim">
-    <img src="https://komarev.com/ghpvc/?username=ozturk&style=for-the-badge&color=0d1117&label=profile+views" />
+    <img src="https://komarev.com/ghpvc/?username=oztxrk&style=for-the-badge&color=0d1117&label=profile+views" />
   </a>
 </p>
 
