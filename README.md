@@ -12,13 +12,13 @@
 <p align="center">
   <a href="https://discord.com/users/671020205853638676">
     <img src="https://img.shields.io/badge/discord-öztürk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://github.com/ozturksniper">
-    <img src="https://komarev.com/ghpvc/?username=oztxrk&style=for-the-badge&color=0d1117&label=profile+views" />
+  <a href="https://github.com/vanityclaim">
+    <img src="https://komarev.com/ghpvc/?username=ozturk&style=for-the-badge&color=0d1117&label=profile+views" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ozturksniper?tab=repositories">
+  <a href="https://github.com/vanityclaim?tab=repositories">
     <img src="https://img.shields.io/badge/check%20out%20my%20repos-%E2%86%92-58a6ff?style=for-the-badge&labelColor=0d1117" />
   </a>
 </p>
